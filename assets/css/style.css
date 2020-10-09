@@ -1,0 +1,29 @@
+.grid{
+  text-align: center;
+}
+
+.prodotto{
+  display: inline;
+}
+
+.heart{
+  color: red;
+  /* opacity: 0; */
+}
+.heart:hover {
+  opacity: 1;
+}
+
+.t-percento{
+  color: white;
+  background-color: green;
+  border-radius: 80%;
+  padding: 3px;
+}
+
+.c-percento{
+  color: white;
+  background-color: red;
+  border-radius: 80%;
+  padding: 3px;
+}
